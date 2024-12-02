@@ -1,3 +1,6 @@
-{
-  "items": ["Apple", "Banana", "Cherry", "Date", "Elderberry"]
-}
+[
+  {
+    "name": "ratloader",
+    "parts": ["Motor CHT", "Virabrequim", "Bomba de combustível", "Carburador", "Bateria"]
+  }
+]
