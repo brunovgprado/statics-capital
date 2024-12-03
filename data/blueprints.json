@@ -1,6 +1,6 @@
 [
   {
     "name": "ratloader",
-    "parts": ["Motor CHT", "Virabrequim", "Bomba de combustível", "Carburador", "Bateria"]
+    "parts": ["1x Motor CHT", "1x Virabrequim", "1x Bomba de combustível", "1x Carburador de santana", "1x Bateria", "1x Tanque de combustivel", "1x Transmissão", "2x Vela de ignição", "398x Parafuso"]
   }
 ]
